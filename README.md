@@ -5,3 +5,7 @@ El presente proyecto es un clon de google realizado para poner en practica las h
 Fue desarrollado con HTML y CSS.
 
 [Proyecto desplegado](https://clongooglefrida.netlify.app/) 
+
+--
+
+Desarrollado por Frida Pineda en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/) 🎇
